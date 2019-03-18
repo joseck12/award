@@ -32,12 +32,12 @@ An application that allows a user to post a project he/she has created and get i
 - `python3.6 manage.py test reward`
 
 ## Specifications/User Stories
-- `Users can view posted projects and their details.`
-- `Users can rate/ review other users' projects.`
-- `Users can post a project to be rated/reviewed.`
-- `Users can search for projects.`
-- `Users can view a project's overall score.`
-- `Users can view their profile page.`
+- Users can view posted projects and their details.
+- Users can rate/ review other users' projects.
+- Users can post a project to be rated/reviewed.
+- Users can search for projects.
+- Users can view a project's overall score.
+- Users can view their profile page.
 
 ## Technologies & Resources/Tools Used
 Technologies used include:
